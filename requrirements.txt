@@ -1,7 +1,9 @@
 langchain-groq
 tiktoken
 chromadb
+openai
 langchain
 flask
 GitPython
 python-dotenv
+-e .
