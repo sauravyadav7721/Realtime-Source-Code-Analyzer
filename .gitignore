@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project runtime data
+repo/
+db/
+research/test-repo/
+*.egg-info/
